@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SweetDesert", "SweetDesert\SweetDesert.csproj", "{4C103E0D-E3F1-4C24-9432-65BD35419A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipolator", "ArrayManipolator\ArrayManipolator.csproj", "{6397774A-90A2-429B-B27A-72DC9F682D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "footbalStanding", "footbalStanding\footbalStanding.csproj", "{39145575-DA9C-44BB-AB05-9DA69C3A6E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubbicMessages", "CubbicMesseges\CubbicMessages.csproj", "{F984BF9E-73CB-4F1F-9956-35769A8D2A6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C103E0D-E3F1-4C24-9432-65BD35419A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C103E0D-E3F1-4C24-9432-65BD35419A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C103E0D-E3F1-4C24-9432-65BD35419A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C103E0D-E3F1-4C24-9432-65BD35419A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6397774A-90A2-429B-B27A-72DC9F682D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6397774A-90A2-429B-B27A-72DC9F682D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6397774A-90A2-429B-B27A-72DC9F682D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6397774A-90A2-429B-B27A-72DC9F682D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39145575-DA9C-44BB-AB05-9DA69C3A6E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39145575-DA9C-44BB-AB05-9DA69C3A6E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39145575-DA9C-44BB-AB05-9DA69C3A6E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39145575-DA9C-44BB-AB05-9DA69C3A6E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F984BF9E-73CB-4F1F-9956-35769A8D2A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F984BF9E-73CB-4F1F-9956-35769A8D2A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F984BF9E-73CB-4F1F-9956-35769A8D2A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F984BF9E-73CB-4F1F-9956-35769A8D2A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

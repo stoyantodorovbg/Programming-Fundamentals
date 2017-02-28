@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.2016.06", "Exam.2016.06\Exam.2016.06.csproj", "{BF519690-D6D8-4086-88CF-3969E115E9C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniWaterSuplies", "SoftuniWaterSuplies\SoftuniWaterSuplies.csproj", "{7880719E-B349-4C75-92E8-EBBE54D03C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftuniCoffee", "SoftuniCoffee\SoftuniCoffee.csproj", "{2A39F860-001C-476B-A0BA-AC052534763F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF519690-D6D8-4086-88CF-3969E115E9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF519690-D6D8-4086-88CF-3969E115E9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF519690-D6D8-4086-88CF-3969E115E9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF519690-D6D8-4086-88CF-3969E115E9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7880719E-B349-4C75-92E8-EBBE54D03C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7880719E-B349-4C75-92E8-EBBE54D03C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7880719E-B349-4C75-92E8-EBBE54D03C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7880719E-B349-4C75-92E8-EBBE54D03C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A39F860-001C-476B-A0BA-AC052534763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A39F860-001C-476B-A0BA-AC052534763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A39F860-001C-476B-A0BA-AC052534763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A39F860-001C-476B-A0BA-AC052534763F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
